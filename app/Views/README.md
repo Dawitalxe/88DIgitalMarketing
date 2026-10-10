@@ -1,0 +1,1 @@
+Views are intentionally thin. Keep authorization out of presentation logic; authorize at API/controller boundaries. For additional role-specific pages, compose reusable cards and tables rather than duplicating the application shell.
